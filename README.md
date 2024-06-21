@@ -1,7 +1,7 @@
 
 # ANÁLISE DE SENTIMENTOS EM COMENTÁRIOS DE CONSUMIDORES: UMA ABORDAGEM COM EMBEDDINGS E MODELOS DE APRENDIZADO DE MÁQUINA
 
-##RESUMO
+## RESUMO
 Neste TCC foi realizada uma análise de sentimento em comentários de
 consumidores de produtos para bebês, utilizando uma representação vetorial
 chamada de embeddings. Foram utilizados dois modelos de aprendizado de
